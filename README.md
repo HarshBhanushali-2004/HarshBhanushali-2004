@@ -1,4 +1,4 @@
-### Hi there, I'm Harsh Bhanushali [website] 👋
+### Hi there, I'm Harsh Bhanushali 👋
 
 
 ## I'm a Student, Blogger, Developer!!
