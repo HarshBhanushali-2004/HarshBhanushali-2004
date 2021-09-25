@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on Ardunio & Python OpenCV Projects.
 - 🌱 I’m currently learning Diploma Studies, Ardunio, Advance Python.
-- 📫 How to reach me: [DamaTheBlogger](https://www.damatheblogger.in)
-- ⚡ Fun fact: My Website: <a src="https://damatheblogger.in/">DamaTheBlogger</a>
+- 📫 How to reach me: [DamaTheBlogger/Contact](https://damatheblogger.in/contacts.php) or Twitter - [@HarshBh89170035](https://twitter.com/HarshBh89170035)
+- ⚡ Fun fact: My Website: [DamaTheBlogger](https://damatheblogger.in)
 
 
 ### Connect with me:
