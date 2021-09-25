@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Harsh Bhanushali [website] 👋
 
-<!--
-**HarshBhanushali-2004/HarshBhanushali-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student, Blogger, Developer!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Ardunio & Python OpenCV Projects.
+- 🌱 I’m currently learning Diploma Studies, Ardunio, Advance Python.
+- 📫 How to reach me: <a src="https://damatheblogger.in/contacts.php">Damatheblogger/Contactus.</a>
+- ⚡ Fun fact: My Website: <a src="https://damatheblogger.in/">DamaTheBlogger</a>
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/HarshBh89170035
+[linkedin]: https://www.linkedin.com/in/harsh-bhanushali-28945618b/
