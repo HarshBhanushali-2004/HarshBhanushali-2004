@@ -19,6 +19,6 @@
 
 
 
-[website]: httpss://damatheblogger.in
+[website]: https://damatheblogger.in
 [twitter]: https://twitter.com/HarshBh89170035
-[linkedin]: https://www.linkedin.com/in/harsh-bhanushali-28945618b/
+[linkedin]: https://www.linkedin.com/in/HarshBhanushali-damatheblogger
